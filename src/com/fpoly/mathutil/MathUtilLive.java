@@ -30,6 +30,9 @@ public class MathUtilLive {
         //expected value: 5! = 120
         // mày / hàm ai đó viết khi chạy thực tế là mấy - actual , giả sử 120
         //if expected == actual , hàm ngon trong tình huống này
+        
+        
+        System.out.println("Tính ngu hehehe");
     }
 
 }
