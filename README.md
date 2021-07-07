@@ -6,5 +6,5 @@
 * .gitignore file for NetBeans project
 * README.md - this file itself - using Markdown language
 
-![Tinh dep dzai](D:\GiaoLang\math-util-live\images\tnhh630.png)
+![Tinh dep dzai](https://github.com/tnhh630/math-util-live/tree/main/images/tnhh630.png)
 ### © 2021 tnhh630 | fb/tinhhtp14843
